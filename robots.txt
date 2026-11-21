@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shayanalikhan324-netizen.github.io/portfolio/sitemap.xml
